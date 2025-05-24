@@ -1,0 +1,193 @@
+body {
+    background: whitesmoke;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}   
+
+.img_ju {
+    border-radius: 50px;
+    position: relative;
+    left: 1130px;
+    bottom: 100px;
+    margin: auto;
+}
+
+h1 {
+    font-weight:900;
+    font-family: Verdana, Geneva, Tahoma, sans-serifw ;
+    font-style: oblique;
+    text-align: left;
+    padding: 20px;
+    color: black;
+    margin: auto;
+    position: relative;
+    bottom: 730px;
+}
+
+.title2 {
+    font-weight:900;
+    font-family: Verdana, Geneva, Tahoma, sans-serifw ;
+    font-style: oblique;
+    text-align: left;
+    padding: 20px ;
+    color: orange;
+    margin: auto;
+    position: relative;
+    bottom: 730px;
+}
+
+.tes {
+    padding: 20px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serifw ;
+    margin: auto;
+    position: relative;
+    bottom: 730px;
+}
+
+.func {
+    background: orange;
+    color: white;
+    height: 50px;
+    width: 200px;
+    font-weight:900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    border-radius: 35px;
+    border: white;
+    position: relative;
+    bottom:700px;
+    right: 170px;
+    font-size: medium;
+}
+
+.topo-proj {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.fra-topo {
+    position: relative;
+    left: 80px;
+    bottom: 75px;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: large;
+}
+
+.ini {
+    position: relative;
+    left: 300px;
+    bottom: 125px;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: large;
+}
+
+.cola {
+    position: relative;
+    left: 1650px;
+    bottom:1120px;
+    background: orange;
+    color: white;
+    height: 50px;
+    width: 180px;
+    font-weight:900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    border: white;
+    border-radius: 35px;
+    font-size: medium;
+}
+
+button:hover,
+button:focus {
+    background: rgb(252, 174, 30);
+    cursor: pointer;
+}
+
+.icons {
+    background: rgb(223, 176, 89);  
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    position: relative;
+    bottom: 400px;
+    height:50vh;
+}
+
+.cf {
+    font-size: xx-large;
+}
+
+.first-col {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.sp{
+    position: relative;
+    bottom: 20px;
+    left: 5px;
+    padding-right: 307px;
+}
+
+.lc {
+    position: relative;
+    bottom: 20px;
+    left: 5px;
+}
+
+.second-col {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    text-align: center;
+    background-position: left
+}
+
+.r {
+    position: relative;
+    bottom: 20px;
+    left: 5px;
+    padding-right: 400px;
+}
+
+.u {
+    position:relative;
+    bottom: 16px;
+    left: 5px;
+}
+
+.corretos {
+    position: relative;
+    left: 1300px;
+    bottom: 365px;
+}
+
+.co1 {
+    display: flex;
+    flex-direction: row
+
+}
+
+.co2 {
+    display: flex;
+    flex-direction: row
+}
+
+.co3 {
+    display: flex;
+    flex-direction: row
+}
+
+.pp {
+    padding-bottom: 30px;
+    font-size: xx-large;
+}
